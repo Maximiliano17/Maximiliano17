@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
    <h1 align="center">Hello World I am maximiliano a programmer</h1> 
     <p align="center">
-     Estudiante en busca de trabajo. Listo para usar mis habilidades y pasión para promover la misión de una empresa. Con conocimientos tecnológicos, ofrezco mi experiencia en tecnología enfocadas al desarrollo de aplicaciones web y programas informáticos avanzados. Traigo una actitud positiva y voluntad junto a la motivación para aprender nuevos campos de la Informática
+   Student looking for work. Ready to use my skills and passion to further a company's mission. With technological knowledge, I offer my experience in technology focused on the development of web applications and advanced computer programs. I bring a positive attitude and will along with the motivation to learn new fields of Computer Science
     </p>
 </div>  
 <div align="center">  
