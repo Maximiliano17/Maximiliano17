@@ -32,7 +32,7 @@
 <div align="center">
 <h2>About Me</h2>
 👨‍💻 IT technician
-💻 Back End Developer
+💻 Front End Developer
 🎯 Social Media: https://linktr.ee/juampavlb
 🎂 17 years
 </div>
