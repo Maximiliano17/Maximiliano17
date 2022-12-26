@@ -6,7 +6,7 @@
     </p>
 </div>  
 <div align="center">  
-  <h3 align="center">Social Mdia</h3> 
+  <h3 align="center">Social Media</h3> 
   <h2></h2>
  
   [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/JuampaVLB)
