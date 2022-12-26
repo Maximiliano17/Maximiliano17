@@ -33,6 +33,6 @@
 <h2>About Me</h2>
 👨‍💻 IT technician
 💻 Front End Developer
-🎯 Social Media: https://linktr.ee/juampavlb
+🎯 Social Media: https://linktr.ee/maximiliano17
 🎂 17 years
 </div>
