@@ -30,8 +30,8 @@
 
 <div>
 <h2>About Me</h2>
-👨‍💻 IT technician
-💻 Front End Developer
+👨‍💻 IT technician <h2></h2>
+💻 Front End Developer <h2></h2>
 🎯 Social Media: https://linktr.ee/maximiliano17
 🎂 17 years
 </div>
