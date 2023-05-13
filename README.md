@@ -29,6 +29,8 @@
     
 </p>
 
+[![Maximiliano17's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maximiliano17)](https://github.com/anuraghazra/github-readme-stats)
+
 <div>
 <h2>About Me</h2>
 👨‍💻 IT technician <br>
