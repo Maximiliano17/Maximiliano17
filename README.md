@@ -1,5 +1,6 @@
 <div id="header"> 
-   ![Untitled (1)](https://github.com/Maximiliano17/Maximiliano17/assets/119821221/5fd20329-2749-4db1-aef8-c85d8ce6a06a)
+![Untitled (1)](https://github.com/Maximiliano17/Maximiliano17/assets/119821221/5fd20329-2749-4db1-aef8-c85d8ce6a06a)
+
    <h1>Hello World I am maximiliano a programmer</h1> 
     <p>
    Student looking for work. Ready to use my skills and passion to further a company's mission. With technological knowledge, I offer my experience in technology focused on the development of web applications and advanced computer programs. I bring a positive attitude and will along with the motivation to learn new fields of Computer Science.
