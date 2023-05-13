@@ -5,7 +5,7 @@
     </p>
 </div>  
 <div>  
-  <h3 align="center">Social Media</h3> 
+  <h3>Social Media</h3> 
   <h2></h2>
  
   [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Maximiliano17)
@@ -14,10 +14,10 @@
   
 </div>
 
-<h3 align="center"> Programming Languages </h3>
+<h3> Programming Languages </h3>
   <h2></h2>
   
-<p align="center"> 
+<p> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -28,7 +28,7 @@
     
 </p>
 
-<div align="center">
+<div>
 <h2>About Me</h2>
 👨‍💻 IT technician
 💻 Front End Developer
