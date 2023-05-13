@@ -28,6 +28,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     
 </p>
+<h3>Statistics</h3>
   <h2></h2>
 
 
