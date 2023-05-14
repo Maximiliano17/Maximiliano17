@@ -1,6 +1,6 @@
 <div id="header">
    <h1>Hello World I am maximiliano a programmer</h1> 
-   <iframe src="https://giphy.com/embed/UuTIijN6ih5kzV9nNI" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/internet-loof-and-timmy-no-UuTIijN6ih5kzV9nNI">via GIPHY</a></p>
+   <a href="https://giphy.com/gifs/internet-loof-and-timmy-no-UuTIijN6ih5kzV9nNI"></a>
     <p>
    Student looking for work. Ready to use my skills and passion to further a company's mission. With technological knowledge, I offer my experience in technology focused on the development of web applications and advanced computer programs. I bring a positive attitude and will along with the motivation to learn new fields of Computer Science.
     </p>
