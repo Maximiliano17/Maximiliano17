@@ -42,5 +42,5 @@
    <br>
 🎯 Social Media: https://linktr.ee/maximiliano17<br>
    <br>
-🎂 17 years<br>
+<br>
 </div>
