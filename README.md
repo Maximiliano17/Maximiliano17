@@ -1,4 +1,4 @@
-<div id="header">
+<div id="header"> 
     <img width="400" src="https://media.giphy.com/media/UuTIijN6ih5kzV9nNI/giphy.gif" />
    <h1>Hello World I am maximiliano a programmer</h1>
     <p>
