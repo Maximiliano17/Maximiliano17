@@ -19,6 +19,6 @@
 ## Contacto 📧
 
 - Correo electrónico: [tu-correo-electronico@example.com](mailto:tu-correo-electronico@example.com)
-- LinkedIn: [TuNombre en LinkedIn](enlace-a-tu-linkedin)
+- LinkedIn: [MaxiDev](https://www.linkedin.com/in/maximilianodossantos/
 
 ¡Gracias por visitar mi perfil! 😄
