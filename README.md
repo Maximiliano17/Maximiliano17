@@ -28,3 +28,4 @@ Actualmente, estoy ampliando mis conocimientos al cursar la carrera de Ingenier�
 - LinkedIn: [MaxiDev](https://www.linkedin.com/in/maximilianodossantos/)
 
 ¡Gracias por visitar mi perfil! 😄
+
