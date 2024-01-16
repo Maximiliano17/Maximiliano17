@@ -2,7 +2,7 @@
 
 ¡Bienvenido a mi espacio en GitHub! Soy Maximiliano Dos Santos Burgos. 😊
 
-[![Banner](enlace-a-tu-banner)](https://github.com/Maximiliano17)
+[![Banner](https://github.com/Maximiliano17/Maximiliano17/blob/main/Untitled%20(31).png)](https://github.com/Maximiliano17)
 
 ## Sobre mí 🚀
 
