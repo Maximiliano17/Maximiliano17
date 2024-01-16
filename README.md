@@ -6,15 +6,15 @@
 
 ## Sobre mí 🚀
 
-- Tecnico En Informatica Personal Y Profecional.
-- Desarrollador apasionado.
-- Explorando el mundo del código.
-- Amante de la tecnología.
+- Desarrollador web Junior apasionado.
+- Graduado como Técnico en Informática Personal y Profesional.
+- Estudiante de Ingeniería Informática.
+- Experiencia en front-end, back-end y diseño.
+- Explorando el desarrollo Android con Kotlin.
 
 ## Mis Videos en YouTube 🎥
 
-1. [Expocicion De Muestra Petzify]([enlace-al-video-1](https://youtu.be/sd4FjQaW0-4?si=TUO17ob9NP3Eb_m9)) - Nos complace compartir que tuvimos la oportunidad de presentar nuestro emocionante proyecto, Petzify, en las instalaciones de la Escuela Técnica Secundaria Número 5. Durante la exposición, destacamos cada aspecto crucial de nuestro proyecto, mostrando en una detallada diapositiva las diversas vistas y partes que lo componen..
-2. [Título del Video 2](enlace-al-video-2) - Breve descripción.
+1. [Exponiendo Petzify](https://youtu.be/sd4FjQaW0-4?si=TUO17ob9NP3Eb_m9) - Nos complace compartir que tuvimos la oportunidad de presentar nuestro emocionante proyecto, Petzify, en las instalaciones de la Escuela Técnica Secundaria Número 5. Durante la exposición, destacamos cada aspecto crucial de nuestro proyecto, mostrando en una detallada diapositiva las diversas vistas y partes que lo componen.
 
 ## Contacto 📧
 
