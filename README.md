@@ -6,6 +6,8 @@
 
 ## Sobre mí 🚀
 
+Actualmente, estoy ampliando mis conocimientos al cursar la carrera de Ingeniería Informática, lo que me ha permitido explorar nuevas áreas y enriquecer mis habilidades. Mi viaje en la programación ha sido emocionante y lleno de aprendizajes, desde trabajar en proyectos variados hasta incursionar en el desarrollo Android con Kotlin.
+
 - 💻 Desarrollador web Junior apasionado.
 - 🎓 Graduado como Técnico en Informática Personal y Profesional.
 - 📚 Estudiante de Ingeniería Informática.
