@@ -21,6 +21,6 @@ Actualmente, estoy ampliando mis conocimientos al cursar la carrera de Ingenier�
 ## Contacto 📧
 
 - Correo electrónico: [tu-correo-electronico@example.com](mailto:tu-correo-electronico@example.com)
-- LinkedIn: [MaxiDev](https://www.linkedin.com/in/maximilianodossantos/
+- LinkedIn: [MaxiDev](https://www.linkedin.com/in/maximilianodossantos/)
 
 ¡Gracias por visitar mi perfil! 😄
