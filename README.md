@@ -14,7 +14,7 @@ Actualmente, estoy ampliando mis conocimientos al cursar la carrera de Ingenier�
 - 🎨 Experiencia en front-end, back-end y diseño.
 - 📱 Explorando el desarrollo Android con Kotlin.
 
-## Mis Videos en YouTube 🎥
+## Mis Proyectos en YouTube 🎥
 
 | Video | Descripción |
 | --- | --- |
