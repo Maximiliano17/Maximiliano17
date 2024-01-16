@@ -6,11 +6,11 @@
 
 ## Sobre mí 🚀
 
-- Desarrollador web Junior apasionado.
-- Graduado como Técnico en Informática Personal y Profesional.
-- Estudiante de Ingeniería Informática.
-- Experiencia en front-end, back-end y diseño.
-- Explorando el desarrollo Android con Kotlin.
+- 💻 Desarrollador web Junior apasionado.
+- 🎓 Graduado como Técnico en Informática Personal y Profesional.
+- 📚 Estudiante de Ingeniería Informática.
+- 🎨 Experiencia en front-end, back-end y diseño.
+- 📱 Explorando el desarrollo Android con Kotlin.
 
 ## Mis Videos en YouTube 🎥
 
