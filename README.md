@@ -27,5 +27,11 @@ Actualmente, estoy ampliando mis conocimientos al cursar la carrera de Ingenier�
 - Correo electrónico: [Mandame Un Mail](maxidossantosburgos@gmail.com)
 - LinkedIn: [MaxiDev](https://www.linkedin.com/in/maximilianodossantos/)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maximiliano17&show_icons=true&locale=en&layout=compact" alt="maximiliano17" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maximiliano17&show_icons=true&locale=en" alt="maximiliano17" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maximiliano17&" alt="maximiliano17" /></p
+
 ¡Gracias por visitar mi perfil! 😄
 
